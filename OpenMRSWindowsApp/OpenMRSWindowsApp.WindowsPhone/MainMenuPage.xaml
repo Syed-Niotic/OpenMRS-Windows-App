@@ -1,0 +1,44 @@
+﻿<Page
+    x:Class="OpenMRSWindowsApp.MainMenuPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:OpenMRSWindowsApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+
+        <Style TargetType="Button">
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="Height" Value="150"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+        </Style>
+
+
+    </Page.Resources>
+
+
+    <Grid Background="White">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <TextBlock x:Name="txtHeader" HorizontalAlignment="Center" Margin="0,28,0,0" Style="{ThemeResource HeaderTextBlockStyle}" 
+                   Text="Welcome User!" VerticalAlignment="Top" Height="58" Width="380" FontSize="46.667" Foreground="#FF5B57A6"/>
+
+        <Button Margin="37,398,0,100" >
+            <Image Source="Assets/Main Menu/search.jpg"/>
+        </Button>
+        <Button Margin="37,98,0,392" >
+            <Image Source="Assets/Main Menu/Vitals.jpg"/>
+        </Button>
+        <Button Margin="36,0,0,0" Height="139" Width="151"
+            VerticalAlignment="Center">
+            <Image Source="Assets/Main Menu/ActiveVisits.jpg"/>
+        </Button>
+    </Grid>
+</Page>

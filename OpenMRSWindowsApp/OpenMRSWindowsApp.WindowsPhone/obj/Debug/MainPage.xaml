@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="OpenMRSWindowsApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:OpenMRSWindowsApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    >
+    
+
+
+    <Grid Background="White">
+
+        <TextBox PlaceholderText="Edit Host: http://devtest04.openmrs.org/openmrs"
+                   Background="#FF009384" FontSize="16"  />      
+
+        <StackPanel 
+                    Width="293"
+                    Height="200" Margin="52,327,55,113"
+                    HorizontalAlignment="Center">
+            <TextBox x:Name="txtUsername"
+                 Width="200"
+                 Height="45" BorderBrush="#FF009384" PlaceholderText="USERNAME"/>
+            <PasswordBox x:Name="txtPassword" BorderBrush="#FF009384"
+            	Width="200"
+            	Height="45" PlaceholderText="PASSWORD"/>
+            <Button x:Name="btnLogin" 
+            	Background="#FF009384"
+                HorizontalAlignment="Center"
+            	Content="LOGIN"/>
+        </StackPanel>
+    </Grid>
+</Page>
+

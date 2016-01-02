@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\შყედ ჰმედ\documents\visual studio 2015\projects\openmrswindowsapp\openmrswindowsapp\openmrswindowsapp.windows\obj\debug\intermediatexaml\openmrswindowsapp.windows.exe" HashGuid="6fe6255c-c305-727d-089d-f4991d7fbefb" />
+    <ReferenceAssembly PathName="c:\users\შყედ ჰმედ\documents\visual studio 2015\projects\openmrswindowsapp\packages\newtonsoft.json.8.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\newtonsoft.json.dll" HashGuid="45fca682-5804-bd5a-6c32-9ba745aa42e3" />
+    <ReferenceAssembly PathName="c:\users\შყედ ჰმედ\documents\visual studio 2015\projects\openmrswindowsapp\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\შყედ ჰმედ\documents\visual studio 2015\projects\openmrswindowsapp\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

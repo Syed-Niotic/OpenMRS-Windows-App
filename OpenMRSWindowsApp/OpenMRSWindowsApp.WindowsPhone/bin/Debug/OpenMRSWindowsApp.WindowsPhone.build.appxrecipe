@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-T3T1C04</Machine>
+    <WindowsUser>შყედ ჰმედ</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>fd5a1172-0de2-4ff6-9f8c-a6a12237730f</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\შყედ ჰმედ\documents\visual studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\შყედ ჰმედ\documents\visual studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\შყედ ჰმედ\documents\visual studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.WindowsPhone\bin\Debug\OpenMRSWindowsApp.WindowsPhone.exe">
+      <PackagePath>OpenMRSWindowsApp.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\შყედ ჰმედ\documents\visual studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\შყედ ჰმედ\documents\visual studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\შყედ ჰმედ\documents\visual studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\შყედ ჰმედ\documents\visual studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\შყედ ჰმედ\documents\visual studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\შყედ ჰმედ\documents\visual studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\შყედ ჰმედ\documents\visual studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.WindowsPhone\bin\Debug\OpenMRSWindowsApp.WindowsPhone.xr.xml">
+      <PackagePath>OpenMRSWindowsApp.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\შყედ ჰმედ\documents\visual studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\შყედ ჰმედ\documents\visual studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\შყედ ჰმედ\documents\visual studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

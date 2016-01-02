@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-T3T1C04</Machine>
+    <WindowsUser>შყედ ჰმედ</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d3bda9b6-7ae5-43a9-85e7-91627e1719ac</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\bin\Debug\OpenMRSWindowsApp.Windows.exe">
+      <PackagePath>OpenMRSWindowsApp.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\packages\Newtonsoft.Json.8.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\Assets\Images\OpenMRS-logo.png">
+      <PackagePath>Assets\Images\OpenMRS-logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\Assets\Main Menu\ActiveVisits.jpg">
+      <PackagePath>Assets\Main Menu\ActiveVisits.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\Assets\Main Menu\search.jpg">
+      <PackagePath>Assets\Main Menu\search.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\Assets\Main Menu\Vitals.jpg">
+      <PackagePath>Assets\Main Menu\Vitals.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\bin\Debug\OpenMRSWindowsApp.Windows.xr.xml">
+      <PackagePath>OpenMRSWindowsApp.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\bin\Debug\LoginPage.xbf">
+      <PackagePath>LoginPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\bin\Debug\MainMenuPage.xbf">
+      <PackagePath>MainMenuPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\bin\Debug\Search.xbf">
+      <PackagePath>Search.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\შყედ ჰმედ\Documents\Visual Studio 2015\Projects\OpenMRSWindowsApp\OpenMRSWindowsApp\OpenMRSWindowsApp.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
